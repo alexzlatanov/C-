@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\advance-loop\Check Prime\bin\Debug\Check Prime.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\advance-loop\Check Prime\bin\Debug\Check Prime.exe
+c:\users\alex\documents\visual studio 2015\Projects\advance-loop\Check Prime\bin\Debug\Check Prime.pdb
+c:\users\alex\documents\visual studio 2015\Projects\advance-loop\Check Prime\obj\Debug\Check Prime.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\advance-loop\Check Prime\obj\Debug\Check Prime.exe
+c:\users\alex\documents\visual studio 2015\Projects\advance-loop\Check Prime\obj\Debug\Check Prime.pdb

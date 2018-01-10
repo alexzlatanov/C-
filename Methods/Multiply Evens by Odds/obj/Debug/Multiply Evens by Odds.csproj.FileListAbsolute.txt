@@ -1,0 +1,6 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.pdb

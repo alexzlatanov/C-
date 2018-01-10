@@ -1,0 +1,1 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SortNumbers\bin\Debug\SortNumbers.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Compare Char Arrays\bin\Debug\Compare Char Arrays.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Compare Char Arrays\bin\Debug\Compare Char Arrays.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Compare Char Arrays\obj\Debug\Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Compare Char Arrays\obj\Debug\Compare Char Arrays.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Compare Char Arrays\obj\Debug\Compare Char Arrays.pdb

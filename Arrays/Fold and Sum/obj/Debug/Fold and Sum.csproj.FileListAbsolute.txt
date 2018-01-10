@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Fold and Sum\bin\Debug\Fold and Sum.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Fold and Sum\bin\Debug\Fold and Sum.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Fold and Sum\bin\Debug\Fold and Sum.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Fold and Sum\obj\Debug\Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Fold and Sum\obj\Debug\Fold and Sum.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Fold and Sum\obj\Debug\Fold and Sum.pdb

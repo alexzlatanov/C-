@@ -1,0 +1,6 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Greater of Two Values\obj\Debug\Greater of Two Values.csprojResolveAssemblyReference.cache
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Greater of Two Values\obj\Debug\Greater of Two Values.pdb

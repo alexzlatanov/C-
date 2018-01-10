@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\arrays\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\ReverseNumbers\bin\Debug\ReverseNumbers.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\ReverseNumbers\bin\Debug\ReverseNumbers.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\ReverseNumbers\bin\Debug\ReverseNumbers.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\ReverseNumbers\obj\Debug\ReverseNumbers.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\ReverseNumbers\obj\Debug\ReverseNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\lists\lists\bin\Debug\lists.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\lists\lists\bin\Debug\lists.exe
+c:\users\alex\documents\visual studio 2015\Projects\lists\lists\bin\Debug\lists.pdb
+c:\users\alex\documents\visual studio 2015\Projects\lists\lists\obj\Debug\lists.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\lists\lists\obj\Debug\lists.exe
+c:\users\alex\documents\visual studio 2015\Projects\lists\lists\obj\Debug\lists.pdb

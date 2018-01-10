@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\DataTypes\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\DataTypes\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.exe
+c:\users\alex\documents\visual studio 2015\Projects\DataTypes\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.pdb
+c:\users\alex\documents\visual studio 2015\Projects\DataTypes\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\DataTypes\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.exe
+c:\users\alex\documents\visual studio 2015\Projects\DataTypes\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.pdb

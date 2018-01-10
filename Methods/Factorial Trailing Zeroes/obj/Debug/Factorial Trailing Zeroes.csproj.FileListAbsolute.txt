@@ -1,0 +1,1 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\methods\Factorial Trailing Zeroes\bin\Debug\Factorial Trailing Zeroes.exe.config

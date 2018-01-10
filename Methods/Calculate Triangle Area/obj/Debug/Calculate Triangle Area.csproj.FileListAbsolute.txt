@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

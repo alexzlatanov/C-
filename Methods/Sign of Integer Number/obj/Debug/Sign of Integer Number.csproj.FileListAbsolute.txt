@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Sign of Integer Number\bin\Debug\Sign of Integer Number.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Sign of Integer Number\obj\Debug\Sign of Integer Number.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Sign of Integer Number\obj\Debug\Sign of Integer Number.pdb

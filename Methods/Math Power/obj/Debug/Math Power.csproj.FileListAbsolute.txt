@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Math Power\bin\Debug\Math Power.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Math Power\bin\Debug\Math Power.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Math Power\bin\Debug\Math Power.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Math Power\obj\Debug\Math Power.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Math Power\obj\Debug\Math Power.pdb

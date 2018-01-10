@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\Extract Middle 1, 2 or 3 Elements\bin\Debug\Extract Middle 1, 2 or 3 Elements.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\arrays\Extract Middle 1, 2 or 3 Elements\obj\Debug\Extract Middle 1, 2 or 3 Elements.pdb

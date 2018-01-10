@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SquareNumbers\bin\Debug\SquareNumbers.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SquareNumbers\bin\Debug\SquareNumbers.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SquareNumbers\obj\Debug\SquareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SquareNumbers\obj\Debug\SquareNumbers.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\lists\SquareNumbers\obj\Debug\SquareNumbers.pdb

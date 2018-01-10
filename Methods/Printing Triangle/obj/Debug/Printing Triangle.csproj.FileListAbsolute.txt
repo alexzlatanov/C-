@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Printing Triangle\bin\Debug\Printing Triangle.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Printing Triangle\bin\Debug\Printing Triangle.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Printing Triangle\bin\Debug\Printing Triangle.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Printing Triangle\obj\Debug\Printing Triangle.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\methods\Printing Triangle\obj\Debug\Printing Triangle.pdb

@@ -1,0 +1,5 @@
+c:\Users\Alex\documents\visual studio 2015\Projects\Exam1\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.exe.config
+c:\Users\Alex\documents\visual studio 2015\Projects\Exam1\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\Exam1\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.pdb
+c:\Users\Alex\documents\visual studio 2015\Projects\Exam1\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.exe
+c:\Users\Alex\documents\visual studio 2015\Projects\Exam1\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.pdb
