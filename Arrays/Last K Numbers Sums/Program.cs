@@ -12,7 +12,7 @@ namespace Last_K_Numbers_Sums
         {
             int n = int.Parse(Console.ReadLine());
             int k = int.Parse(Console.ReadLine());
-
+			Console.WriteLine("Here");
             var arr = new decimal[n];
             arr[0] = 1;
             for (int i = 1; i < n; i++)
